@@ -1,7 +1,7 @@
 /*Test file creartor :Mani
-Purpose: Git demo*/
+Purpose: Git demo changing branch in to master */
 
-public TestMani{
+public class TestMani{
 
 private java.util.Date getGMTTime(){
   return new java.util.Date();
